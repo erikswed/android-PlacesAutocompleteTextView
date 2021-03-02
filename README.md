@@ -1,4 +1,4 @@
-# android-PlacesAutocompleteTextView
+#  android-PlacesAutocompleteTextView
 
 [![Build Status](https://travis-ci.org/seatgeek/android-PlacesAutocompleteTextView.svg)](https://travis-ci.org/seatgeek/android-PlacesAutocompleteTextView) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PlacesAutocompleteTextView-green.svg?style=true)](https://android-arsenal.com/details/1/2777)
 
